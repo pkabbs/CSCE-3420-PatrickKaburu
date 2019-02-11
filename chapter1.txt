@@ -1,6 +1,6 @@
  Chapter 1
 
-Introduction
+Introduction to Internet
 
 The ineternet is the global system of interconnected computer network that use the Internet Protocol suite (TCP/IP) to link devices worldwide. The internet carries a vast range of information resources and servcies, such as the inter-linked hypertext documents and applications of the world World Wide Web (WWW), electronic mail, telephony and file sharing.
 
